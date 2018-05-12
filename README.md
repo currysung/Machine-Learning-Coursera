@@ -2,4 +2,4 @@
 
 Coursera: Machine Learning by Stanford University, Andrew Ng
 
-Repository for commit my assignments.
+Repository for commit my assignment.
